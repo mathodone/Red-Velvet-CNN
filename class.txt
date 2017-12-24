@@ -1,0 +1,11 @@
+automatic, velvet
+cake, red
+dumb_dumb, red
+flavor, red
+happiness, red
+natural, velvet
+nights, velvet 
+peek, velvet
+rookie, red
+russian, red
+would, red
